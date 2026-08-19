@@ -1,0 +1,26 @@
+{
+  "name": "Le grec en poche",
+  "short_name": "Grec en poche",
+  "description": "Des mots aux phrases utiles en grec, en huit semaines.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f6efe2",
+  "theme_color": "#f6efe2",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
