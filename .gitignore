@@ -1,0 +1,9 @@
+node_modules/
+dist/
+dist-github/
+.next/
+.sites-runtime/
+.wrangler/
+*.log
+.DS_Store
+
